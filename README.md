@@ -27,11 +27,11 @@ change during heart beats, then output heartrate
 
 3. Sync Gradle and run the application on your Android Device!
 
-![alt text](Picture/Screenshot_20220103-134010725.jpg)
+![alt text](https://raw.githubusercontent.com/xerathyang/AndroidRemoteHeartrate/main/picture/Screenshot_20220103-134010725.jpg)
 
-![alt text](Picture/Test1.png)
+![alt text](https://raw.githubusercontent.com/xerathyang/AndroidRemoteHeartrate/main/picture/Test1.png)
 
-![alt text](Picture/Test2.png)
+![alt text](https://raw.githubusercontent.com/xerathyang/AndroidRemoteHeartrate/main/picture/Test2.png)
 
 ## Reference
 
